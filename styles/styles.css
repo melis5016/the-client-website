@@ -13,7 +13,7 @@ header {
 
 /* zoekbalk */
 
-search form {
+.iconSearch form {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
     
