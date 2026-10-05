@@ -1,0 +1,5 @@
+    BRONNEN
+
+dit zijn bronnen die ik heb gebruikt voor het maken van deze site. Het streven is dat elke keer als ik opzoek en gebruik, ik noteer wat heeft gewerkt met een link erbij.
+
+https://flexbox.malven.co/ voor een snel overzicht van flex regeltjes. laat een duidelijk visueel verschil tussen verschillende opties zien
